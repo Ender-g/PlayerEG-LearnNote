@@ -246,7 +246,7 @@
 
 ![p68](../img/p001/p68.png)
 
-#### 3. 分别创建`__init__.py`和`resend_email_demo.py`文件
+#### 3. 分别创建`__main__.py`和`resend_email_demo.py`文件
 
 ![p69](../img/p001/p69.png)
 ![p70](../img/p001/p70.png)
@@ -290,10 +290,10 @@ def sendEmail(
     print(email) # 打印ID
 ```
 
-#### 5.完善`__init__.py`文件
+#### 5.完善`__main__.py`文件
 
 ```python
-# __init__.py
+# __main__.py
 import resend_email_demo
 import random
 
