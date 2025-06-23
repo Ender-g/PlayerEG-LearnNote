@@ -40,7 +40,7 @@
 
 ### 2. 准备激活脚本
 
-- 首先[`点击这里`](https://enderg.lanzoum.com/i0aWN2ecyzle)，下载激活脚本
+- 首先下载[`jetbrains激活码-Win系统.zip`](https://enderg.lanzoum.com/i0aWN2ecyzle)
 
     ![p8](../../img/foundation/p001/p8.png)
 
