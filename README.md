@@ -1,7 +1,7 @@
 # PlayerEG的公开笔记
 
 ## 笔记
-- ### [Start-基础教程](MD/Start-基础教程.md)
+
 - ### [001-使用ResendAPI实现基础的邮箱发送](MD/001-使用ResendAPI实现基础的邮箱发送.md)
 
 ## 未来包含的内容
