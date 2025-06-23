@@ -12,6 +12,7 @@
 
 ### 1. 准备一台能开机的电脑
 
-- 准备一台能开机的电脑，建议使用Windows系统，因为Python的安装包是针对Windows系统的。
+- 准备一台能开机的电脑，建议使用Windows系统，因为Python的安装包是针对Windows系统的。下面是我的能亮机的电脑
+![p0](../../img/foundation/p002/p0.png)
 
 ### 2. Python安装包
