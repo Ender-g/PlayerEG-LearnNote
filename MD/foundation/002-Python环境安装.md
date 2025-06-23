@@ -42,7 +42,7 @@
 
     ![p6](../../img/foundation/p002/p6.png)
 
-- 最后点击`Close`，python就安装完成了
+- 最后点击`Close`，Python就安装完成了
 
     ![p7](../../img/foundation/p002/p7.png)
 
