@@ -6,7 +6,7 @@
 >
 >**Q:** 什么是JetBrains全家桶？
 >
->**A:** JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境（IDE）和开发工具包，包括**IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
+>**A:** JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境(IDE)和开发工具包，包括**IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
 
 ## 准备工作
 
