@@ -6,7 +6,7 @@
 >
 >**Q:** 什么是JetBrains全家桶？
 >
->**A:** JetBrains全家桶是由JetBrains公司提供的一套集成开发环境（IDE）和开发工具包，包括IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm等。
+>**A:** JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境（IDE）和开发工具包，包括**IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
 
 ## 准备工作
 
@@ -34,7 +34,7 @@
 ![p9](../../img/foundation/p001/p9.png)
 ![p10](../../img/foundation/p001/p10.png)
 
-### 安装激活
+## 安装激活
 
 - 运行`JetBrainsIDE安装包`，前面选安照自己的习惯选择，进入安装向导，等待安装完成，然后选择`否`，点击`完成`
 ![p11](../../img/foundation/p001/p11.png)
