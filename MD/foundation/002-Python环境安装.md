@@ -13,44 +13,69 @@
 ### 1. 准备一台能开机的电脑
 
 - 准备一台能开机的电脑，建议使用Windows系统，因为Python的安装包是针对Windows系统的。下面是我的能亮机的电脑
-![p0](../../img/foundation/p002/p0.png)
+
+    ![p0](../../img/foundation/p002/p0.png)
 
 ### 2. Python安装包
 
 - 从[Python官网](https://www.python.org/downloads/)下载Python安装包
-![p1](../../img/foundation/p002/p1.png)
+
+    ![p1](../../img/foundation/p002/p1.png)
 
 ## 安装Python
 
 - 双击安装包
-![p2](../../img/foundation/p002/p2.png)
+
+    ![p2](../../img/foundation/p002/p2.png)
+
 - 勾选上这两个复选框
-![p3](../../img/foundation/p002/p3.png)
+
+    ![p3](../../img/foundation/p002/p3.png)
+
 - 点击`Install Now`
-![p4](../../img/foundation/p002/p4.png)
+
+    ![p4](../../img/foundation/p002/p4.png)
+
 - 等待安装完成后，点击`Disable path length limit`
-![p5](../../img/foundation/p002/p5.png)
-![p6](../../img/foundation/p002/p6.png)
+
+    ![p5](../../img/foundation/p002/p5.png)
+
+    ![p6](../../img/foundation/p002/p6.png)
+
 - 最后点击`Close`，python就安装完成了
-![p7](../../img/foundation/p002/p7.png)
+
+    ![p7](../../img/foundation/p002/p7.png)
 
 ## 验证Python安装
 
 - `Win+R`打开运行窗口，输入`wt`或者`cmd`，点击`确定`，打开终端
-![p8](../../img/foundation/p002/p8.png)
-![p9](../../img/foundation/p002/p9.png)
+
+    ![p8](../../img/foundation/p002/p8.png)
+
+    ![p9](../../img/foundation/p002/p9.png)
+
 - 在终端中输入`python -V`
-![p10](../../img/foundation/p002/p10.png)
+
+    ![p10](../../img/foundation/p002/p10.png)
+
 - 然后回车，出现python版本号，说明Python安装成功
-![p11](../../img/foundation/p002/p11.png)
+
+    ![p11](../../img/foundation/p002/p11.png)
 
 ## Hello Python
 
 - 在终端中输入`python`
-![p12](../../img/foundation/p002/p12.png)
+
+    ![p12](../../img/foundation/p002/p12.png)
+
 - 然后回车，出现Python解释器
-![p13](../../img/foundation/p002/p13.png)
+
+    ![p13](../../img/foundation/p002/p13.png)
+
 - 在Python解释器中输入`print("Hello Python")`
-![p14](../../img/foundation/p002/p14.png)
+
+    ![p14](../../img/foundation/p002/p14.png)
+
 - 然后回车，解释器返回`Hello Python`
-![p15](../../img/foundation/p002/p15.png)
+
+    ![p15](../../img/foundation/p002/p15.png)

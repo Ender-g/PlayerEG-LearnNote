@@ -52,7 +52,9 @@
 #### 4. 来到[域名注册页面](https://wanwang.aliyun.com/domain)，填写你想要的域名，点击`查询`或直接回车
 
 ![p5](../img/p001/p5.png)
+
 ![p6](../img/p001/p6.png)
+
 ![p7](../img/p001/p7.png)
 
 #### 5. 来到查找结果页面，找到你要的域名(这里作者推荐`.top`域名)，点击`立即注册`
@@ -62,16 +64,23 @@
 #### 6. 来到结账页面，选择持续租借时间，选择信息模板，点击`立即购买`
 
 ![p9](../img/p001/p9.png)
+
 ![p10](../img/p001/p10.png)
+
 ![p11](../img/p001/p11.png)
 
 > ##### 如果没有信息模板解决方案
 >
 > 点击`创建信息模板`
+>
 > ![p12](../img/p001/p12.png)
+>
 > 然后填写信息模板
+>
 > ![p13](../img/p001/p13.png)
+>
 > 填写完信息模板后，点击`提交`
+>
 > ![p14](../img/p001/p14.png)
 
 #### 7. 完成上述步骤后，来到付款页面，点击`支付`
@@ -91,11 +100,13 @@
 #### 2. 登陆成功，来到控制台，点击`+ 添加`，再点击`连接域`
 
 ![p18](../img/p001/p18.png)
+
 ![p19](../img/p001/p19.png)
 
 #### 3. 在`输入现有域`下面的输入框中输入你的域名，然后点击`继续`
 
 ![p20](../img/p001/p20.png)
+
 ![p21](../img/p001/p21.png)
 
 #### 4. 将会让你选择计划，个人建议选择使用免费计划，如果条件允许可以选择付费计划
@@ -105,46 +116,83 @@
 #### 5. 接下来是配置DNS解析
 
 > - 首先等待域名解析完成，任何直接点击`继续`
->   ![p23](../img/p001/p23.png)
+>
+> ![p23](../img/p001/p23.png)
+>
 > - 接下来更改域名的DNS解析
+>
 > - 复制这个页面提供的两个`Cloudflare名称服务器`的地址
+>
 >   ![p24](../img/p001/p24.png)
+>
 > - 来到你的[阿里云控制台](https://dc.console.aliyun.com/next/index),点击全部域名
+>
 >   ![p25](../img/p001/p25.png)
+>
 > - 来到域名列表，找到你刚刚购买的域名，点击`管理`
+>
 >   ![p26](../img/p001/p26.png)
+>
 > - 来到域名详情页，点击`DNS修改`
+>
 >   ![p27](../img/p001/p27.png)
+>
 > - 点击`修改DNS服务器`
+>
 >   ![p28](../img/p001/p28.png)
+>
 > - 将刚刚Cloudflare提供的两个`Cloudflare名称服务器`的地址，复制到对应框中（①对①，②对②）
+>
 >   - 复制：
+>
 >     ![p24](../img/p001/p24.png)
+>
 >   - 粘贴：
+>
 >     ![p29](../img/p001/p29.png)
+>
 > - 点击`确定`
+>
 >   ![p30](../img/p001/p30.png)
+>
 > - 进行一下验证
+>
 >   ![p31](../img/p001/p31.png)
+>
 >   ![p32](../img/p001/p32.png)
+>
 > - 成功后会跳转回域名`DNS修改`页面，如果NDS服务器变成了`xxx.cloudflare.com`，则表示成功
+>
 >   ![p33](../img/p001/p33.png)
 
 #### 6. 现在我们测试一下是否配置成功
 
 > - 来到[cloudflare的控制台](https://dash.cloudflare.com/)，点击`Workers和Pages`
+>
 >   ![p34](../img/p001/p34.png)
+>
 > - 在Workers和Pages页面点击`创建`
+>
 >   ![p35](../img/p001/p35.png)
+>
 > - 来到Workers和Pages创建页面，选择`Pages`
+>
 >   ![p36](../img/p001/p36.png)
+>
 > - 点击使用直接上传的`开始使用`
+>
 >   ![p37](../img/p001/p37.png)
+>
 > - 来到创建页面，填入项目名称
+>
 >   ![p38](../img/p001/p38.png)
+>
 > - 接着点击`创建项目`
+>
 >   ![p39](../img/p001/p39.png)
+>
 > - 复制以下HTML代码复制到`test\index.html`中
+>
 >   ![p40](../img/p001/p40.png)
 >
 >   ```html
@@ -172,23 +220,41 @@
 >   ```
 >
 > - 将test文件夹上传并部署
+>
 >   ![p41](../img/p001/p41.png)
+>
 >   ![p42](../img/p001/p42.png)
+>
 > - 点击`添加自定义域`
+>
 >   ![p43](../img/p001/p43.png)
+>
 > - 点击`设置自定义域`
+>
 >   ![p44](../img/p001/p44.png)
+>
 > - 填入你的域名的子域`test.你的域名`
+>
 >   ![p45](../img/p001/p45.png)
+>
 > - 点击`继续`
+>
 >   ![p46](../img/p001/p46.png)
+>
 > - 来到激活域的页面，点击`激活域`
+>
 >   ![p47](../img/p001/p47.png)
+>
 > - 接下来打开你喜爱的游戏，等待子域被激活
+>
 >   ![p48](../img/p001/p48.png)
+>
 > - 子域激活成功后，用浏览器打开子域地址
+>
 >   ![p49](../img/p001/p49.png)
+>
 > - 如果看到这个页面说明部署成功
+>
 >   ![p50](../img/p001/p50.png)
 
 ### 三、配置resend邮箱路由
@@ -204,19 +270,29 @@
 #### 3. 点击`Add Domain`，来到[Add Domain页面](https://resend.com/domains/add)
 
 ![p53](../img/p001/p53.png)
+
 ![p54](../img/p001/p54.png)
 
 #### 5. 填写信息，完成添加域名
 
 > - 填入用于邮箱发送的子域，地区推荐选择US
+>
 >   ![p55](../img/p001/p55.png)
+>
 > - 点击`Add Domain`
+>
 >   ![p56](../img/p001/p56.png)
+>
 > - 来到DNS配置页面，直接点击`登录到Cloudflare`
+>
 >   ![p57](../img/p001/p57.png)
+>
 > - 弹出Cloudflare授权窗口，点击`授权`
+>
 >   ![p58](../img/p001/p58.png)
+>
 > - 现在又可以打开你喜欢的游戏，等待激活成功了。当显示```Well done! All the DNS records are verified. You are ready to start building and sending emails with this domain.```说明激活成功了
+>
 >   ![p59](../img/p001/p59.png)
 
 #### 4. 点击`API keys`，来到[API Keys页面](https://resend.com/api-keys)
@@ -226,7 +302,9 @@
 #### 5. 点击`Create API key`，创建API key
 
 ![p61](../img/p001/p61.png)
+
 ![p62](../img/p001/p62.png)
+
 ![p63](../img/p001/p63.png)
 
 #### 6. 最后复制保存ResendAPIkey
@@ -238,10 +316,15 @@
 #### 1. 打开PyCharm新建项目
 
 > - 点击`新建项目`
+>
 >   ![p65](../img/p001/p65.png)
+>
 > - 项目命名为`EmailSendTest`
+>
 >   ![p66](../img/p001/p66.png)
+>
 > - 点击`创建`
+>
 >   ![p67](../img/p001/p67.png)
 
 #### 2. 来到项目，按照以下顺序点击创建文件
@@ -251,6 +334,7 @@
 #### 3. 分别创建`__main__.py`和`resend_email_demo.py`文件
 
 ![p69](../img/p001/p69.png)
+
 ![p70](../img/p001/p70.png)
 
 #### 4. 根据[ResendAPI文档](https://resend.com/docs/api-reference/emails/send-email)，编写`resend_email_demo.py`工具文件
