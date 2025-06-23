@@ -9,7 +9,7 @@
 
 > 本教程介绍如何使用ResendAPI实现基础的邮箱发送。
 > 将使用Python3作为编程语言，使用ResendAPI实现基础的邮箱发送。
-> 
+>
 > 最终实现以下效果：
 > ![效果](../img/p001/p0.png)
 > 通过[`random`](https://docs.python.org/zh-cn/3/library/random.html)模块生成随机数，将随机数作为邮件内容发送给指定邮箱。
@@ -18,10 +18,10 @@
 ## ResendAPI简介
 
 > ResendAPI是一个用于发送邮件的API，可以免费使用。
-> 
-> 官网：https://resend.com/
-> 
-> 官方文档：https://resend.com/docs/api
+>
+> 官网：<https://resend.com/>
+>
+> 官方文档：<https://resend.com/docs/api>
 
 ## 准备工作
 
@@ -65,7 +65,7 @@
 ![p11](../img/p001/p11.png)
 
 > ##### 如果没有信息模板解决方案
-> 
+>
 > 点击`创建信息模板`
 > ![p12](../img/p001/p12.png)
 > 然后填写信息模板
@@ -145,7 +145,7 @@
 >   ![p39](../img/p001/p39.png)
 > - 复制以下HTML代码复制到`test\index.html`中
 >   ![p40](../img/p001/p40.png)
->   
+>
 >   ```html
 >   <!-- index.html -->
 >   <!DOCTYPE html>
@@ -169,6 +169,7 @@
 >   </body>
 >   </html>
 >   ```
+>
 > - 将test文件夹上传并部署
 >   ![p41](../img/p001/p41.png)
 >   ![p42](../img/p001/p42.png)
