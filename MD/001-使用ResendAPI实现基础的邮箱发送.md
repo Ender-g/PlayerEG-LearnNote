@@ -25,8 +25,9 @@
 
 ## 准备工作
 
-1. 安装[Python3](https://www.python.org/downloads/)环境，作为本次教程的主要编程语言
-2. 注册账号：
+1. 安装[Python3](https://www.python.org/downloads/)环境，作为本次教程的主要编程语言 | [具体教程](../foundation/002-Python环境安装)
+2. 安装[PyCharm](https://www.jetbrains.com/zh-cn/pycharm/)环境，作为本次教程的编辑器 | [具体教程](../foundation/001-JetBrains全家桶安装激活)
+3. 注册账号：
    - [阿里云](https://www.aliyun.com/)账号
    - [cloudflare](https://www.cloudflare.com/)账号
    - [resend](https://resend.com/)账号
