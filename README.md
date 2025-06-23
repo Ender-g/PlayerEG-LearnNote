@@ -1,6 +1,12 @@
 # PlayerEG的公开笔记
 
-## 笔记
+## 基础教程
+
+- ### [001-JetBrains全家桶安装激活](MD/foundation/001-JetBrains全家桶安装激活.md)
+
+- ### [002-Python环境安装](MD/foundation/002-Python环境安装.md)
+
+## 目录
 
 - ### [001-使用ResendAPI实现基础的邮箱发送](MD/001-使用ResendAPI实现基础的邮箱发送.md)
 
@@ -14,11 +20,11 @@
 
 ## 关于我
 
-- 邮箱1：playereg@vip.playereg.top
-- 邮箱2：playereg@email.playereg.top
+- 邮箱1：<playereg@vip.playereg.top>
+- 邮箱2：<playereg@email.playereg.top>
 - GitHub主页：[@Ender-g](https://github.com/ender-g)
 - B站主页：[@PlayerEG](https://space.bilibili.com/520500365)
 
-<div style="display: flex;justify-content: center;align-items: center;: 100px">
-    <img style="height: 70px" alt="logo" src="img/mylogo.png"/>
-</div>
+<divstyle="display: flex;justify-content: center;align-items: center">
+    <imgstyle="height: 70px"alt="logo"src="img/mylogo.png"/>
+</divstyle=>
