@@ -14,8 +14,8 @@
 
 1. 一些API的使用方法
 2. 部分源码
-3. 多种编程语言使用基础
-4. 环境搭建
+3. 环境搭建
+4. 涉及多种编程语言
 5. And so on...
 
 ## 关于我
@@ -25,6 +25,4 @@
 - GitHub主页：[@Ender-g](https://github.com/ender-g)
 - B站主页：[@PlayerEG](https://space.bilibili.com/520500365)
 
-<divstyle="display: flex;justify-content: center;align-items: center">
-    <imgstyle="height: 70px"alt="logo"src="img/mylogo.png"/>
-</divstyle=>
+    <img src="./img/mylogo.png" width="150">
