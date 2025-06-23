@@ -25,6 +25,4 @@
 - GitHub主页：[@Ender-g](https://github.com/ender-g)
 - B站主页：[@PlayerEG](https://space.bilibili.com/520500365)
 
-<divstyle="display: flex;justify-content: center;align-items: center">
-    <imgstyle="height: 70px"alt="logo"src="img/mylogo.png"/>
-</divstyle=>
+    <img src="./img/mylogo.png" width="150">
