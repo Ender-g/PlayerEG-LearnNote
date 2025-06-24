@@ -26,7 +26,7 @@
 >
 > 官网👉 [🌐https://cloudflare.com/](https://cloudflare.com/)
 >
-> 官方文档👉 [🌐https://www.cloudflare.com/zh-cn/about-overview/](https://www.cloudflare.com/zh-cn/about-overview/)
+> 关于👉 [🌐https://www.cloudflare.com/zh-cn/about-overview/](https://www.cloudflare.com/zh-cn/about-overview/)
 
 ---
 
