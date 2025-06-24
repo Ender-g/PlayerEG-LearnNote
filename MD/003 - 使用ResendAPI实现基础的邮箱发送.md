@@ -30,23 +30,23 @@
 
 ### 安装[Python3](https://www.python.org/downloads/)环境，作为本次教程的主要编程语言
 
-- 👉 [>>> 具体教程 <<<](foundation/002-Python环境安装.md) 👈
+👉 [>>> 具体教程 <<<](foundation/002-Python环境安装.md) 👈
 
 ### 安装[PyCharm](https://www.jetbrains.com/zh-cn/pycharm/)环境，作为本次教程的编辑器
 
-- 👉 [>>> 具体教程 <<<](foundation/001-JetBrains全家桶安装激活.md) 👈
+👉 [>>> 具体教程 <<<](foundation/001-JetBrains全家桶安装激活.md) 👈
 
 ### 注册一个[阿里云](https://cn.aliyun.com/)域名
 
-- 👉 [>>> 具体教程 <<<](001%20-%20在阿里云上注册域名.md) 👈
+👉 [>>> 具体教程 <<<](001%20-%20在阿里云上注册域名.md) 👈
 
 ### 将域名DNS解析配置为[Cloudflare](https://www.cloudflare-cn.com/enterprise/)
 
-- 👉 [>>> 具体教程 <<<](002%20-%20将阿里云域名DNS解析改为Cloudflare第三方DNS解析.md) 👈
+👉 [>>> 具体教程 <<<](002%20-%20将阿里云域名DNS解析改为Cloudflare第三方DNS解析.md) 👈
 
 ### 准备好一个[Resend](https://resend.com/)账号
 
-- 👉 [>>> Resend账号注册 <<<](https://resend.com/signup) 👈
+👉 [>>> Resend账号注册 <<<](https://resend.com/signup) 👈
 
 ---
 
@@ -148,7 +148,7 @@
 
 ### 根据ResendAPI文档，编写工具方法
 
-- 👉 [>>> ResendAPI文档 <<<](https://resend.com/docs/api-reference/emails/send-email) 👈
+👉 [>>> ResendAPI文档 <<<](https://resend.com/docs/api-reference/emails/send-email) 👈
 
 ```python
 # 官方API
