@@ -20,9 +20,9 @@
 
 > ResendAPI是一个用于发送邮件的API，可以免费使用。
 >
-> 官网👉 [♾️https://resend.com/](https://resend.com/)
+> 官网👉 [🌐https://resend.com/](https://resend.com/)
 >
-> 官方文档👉 [♾️https://resend.com/docs/api](https://resend.com/docs/api)
+> 文档👉 [🌐https://resend.com/docs/api](https://resend.com/docs/api)
 
 ---
 
