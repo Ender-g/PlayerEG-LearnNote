@@ -3,11 +3,18 @@
 ## 🤟教程概述
 
 > 本教程将仅教学JetBrains全家桶安装加激活，用于后续教程作为工具使用。
+> 
+>  最终实现以下效果：
+> 
+> ![效果](../../img/foundation/p001/p20.png)
 >
->**Q:** 什么是JetBrains全家桶？
->
->**A:** JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境(IDE)和开发工具包，包括**IntelliJ
-IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
+> JetBrainsIDE被激活到2099年12月31日
+
+---
+
+## 🤟JetBrains全家桶简介
+
+> JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境(IDE)和开发工具包，包括**IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
 
 ---
 
