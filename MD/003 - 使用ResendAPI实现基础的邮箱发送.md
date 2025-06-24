@@ -2,7 +2,7 @@
 
 > **注意**：本教程将会使用到Google和github等国外服务（因为相对来说更加方便），如果你的网络环境不支持直接连接外域，请使用VPN或者代理
 
-## 教程概述
+## 🤟教程概述
 
 > 本教程介绍如何使用ResendAPI实现基础的邮箱发送。将使用Python3作为编程语言，使用ResendAPI实现基础的邮箱发送。
 >
@@ -12,7 +12,7 @@
 >
 > 通过[`random`](https://docs.python.org/zh-cn/3/library/random.html)模块生成随机数，将随机数作为邮件内容发送给指定邮箱。并判断用户输入的数字是否正确。
 
-## ResendAPI简介
+## 🤟ResendAPI简介
 
 > ResendAPI是一个用于发送邮件的API，可以免费使用。
 >
@@ -20,29 +20,29 @@
 >
 > 官方文档：<https://resend.com/docs/api>
 
-## 准备工作
+## 🤟准备工作
 
 ### 安装[Python3](https://www.python.org/downloads/)环境，作为本次教程的主要编程语言
 
-- [>>> 具体教程 <<<](foundation/002-Python环境安装.md)
+- 👉 [>>> 具体教程 <<<](foundation/002-Python环境安装.md) 👈
 
 ### 安装[PyCharm](https://www.jetbrains.com/zh-cn/pycharm/)环境，作为本次教程的编辑器
 
-- [>>> 具体教程 <<<](foundation/001-JetBrains全家桶安装激活.md)
+- 👉 [>>> 具体教程 <<<](foundation/001-JetBrains全家桶安装激活.md) 👈
 
 ### 注册一个[阿里云](https://cn.aliyun.com/)域名
 
-- [>>> 具体教程 <<<](001%20-%20在阿里云上注册域名.md)
+- 👉 [>>> 具体教程 <<<](001%20-%20在阿里云上注册域名.md) 👈
 
 ### 将域名DNS解析配置为[Cloudflare](https://www.cloudflare-cn.com/enterprise/)
 
-- [>>> 具体教程 <<<](002%20-%20将阿里云域名DNS解析改为Cloudflare第三方DNS解析.md)
+- 👉 [>>> 具体教程 <<<](002%20-%20将阿里云域名DNS解析改为Cloudflare第三方DNS解析.md) 👈
 
 ### 准备好一个[Resend](https://resend.com/)账号
 
-- [>>> Resend账号注册 <<<](https://resend.com/signup)
+- 👉 [>>> Resend账号注册 <<<](https://resend.com/signup) 👈
 
-## 具体步骤
+## 🤟具体步骤
 
 ### 登录Resend[](https://resend.com/)
 
@@ -106,7 +106,7 @@
 
 ![p64](../img/p003/p14.png)
 
-## 开始发送你的第一个resend邮件
+## 🤟开始发送你的第一个resend邮件
 
 ### 打开PyCharm新建项目
 
@@ -138,7 +138,7 @@
 
 ### 根据ResendAPI文档，编写工具方法
 
-- [>>> ResendAPI文档 <<<](https://resend.com/docs/api-reference/emails/send-email)
+- 👉 [>>> ResendAPI文档 <<<](https://resend.com/docs/api-reference/emails/send-email) 👈
 
 ```python
 # 官方API
@@ -206,7 +206,7 @@ if __name__ == '__main__':
         print('好像不是的呢！')
 ```
 
-## 验证
+## 🤟验证
 
 ### 运行`__main__.py`文件，效果如下
 

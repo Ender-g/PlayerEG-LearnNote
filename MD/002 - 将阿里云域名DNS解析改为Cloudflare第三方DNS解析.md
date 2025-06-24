@@ -2,19 +2,19 @@
 
 > **注意**：本教程将会使用到Google和github等国外服务（因为相对来说更加方便），如果你的网络环境不支持直接连接外域，请使用VPN或者代理
 
-## 教程概述
+## 🤟教程概述
 
 > 本教程介绍如何将阿里云域名DNS解析改为Cloudflare第三方DNS解析。
 >
 > 最终实现以下效果：
 >
 > [![效果](../img/p002/p0.png)](https://test.playereg.top/)
->
+>👉👈
 > 👆👆👆点击图片可以进入测试页面demo👆👆👆
 >
 > 成功使用Cloudflare的Pages服务部署测试网页，并且能够通过你的域名访问
 
-## Cloudflare简介
+## 🤟Cloudflare简介
 
 > *Cloudflare*是一家**美国的跨国科技企业**，总部位于旧金山，在英国伦敦亦设有办事处。Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。通过基于**反向代理的内容分发网络(CDN, Content Delivery Network)、任播(Anycast)技术、基于nginx+lua架构的Web应用防火墙(WAF, Web Application Firewall)及分布式域名解析服务(Distributed Domain Name Server)**等技术，Cloudflare可以帮助受保护站点抵御包括分布式拒绝服务攻击(DDoS, Distributed Denial of Service)在内的大多数网络攻击，确保该网站长期在线，同时提升网站的性能、访问速度以改善访客体验。
 >
@@ -22,11 +22,11 @@
 >
 > 官方文档：<https://www.cloudflare.com/zh-cn/about-overview/>
 
-## 具体步骤
+## 🤟具体步骤
 
 ### 登录Cloudflare
 
-- [>>> Cloudflare登录页面 <<<](https://dash.cloudflare.com/login)
+👉 [>>> Cloudflare登录页面 <<<](https://dash.cloudflare.com/login) 👈
 
 ![p17](../img/p002/p1.png)
 
@@ -60,7 +60,7 @@
 
 ### 来到你的阿里云控制台,点击全部域名
 
-- [>>> 阿里云控制台 <<<](https://dc.console.aliyun.com/next/index)
+👉 [>>> 阿里云控制台 <<<](https://dc.console.aliyun.com/next/index) 👈
 
 ![p25](../img/p002/p9.png)
 
@@ -100,11 +100,11 @@
 
 ![p33](../img/p002/p17.png)
 
-## 验证
+## 🤟验证
 
 ### 来到Cloudflare的控制台，点击`Workers和Pages`
 
-- [>>> Cloudflare的控制台 <<<](https://dash.cloudflare.com/)
+👉 [>>> Cloudflare的控制台 <<<](https://dash.cloudflare.com/) 👈
 
 ![p34](../img/p002/p18.png)
 
