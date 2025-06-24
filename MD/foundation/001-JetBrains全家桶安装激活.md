@@ -1,6 +1,6 @@
 # 💫 JetBrains全家桶安装激活
 
-## 🤟教程概述
+## 🔷教程概述
 
 > 本教程将教学JetBrains全家桶安装加激活，在后续教程作为工具使用。
 > 
@@ -12,13 +12,13 @@
 
 ---
 
-## 🤟JetBrains全家桶简介
+## 🔷JetBrains全家桶简介
 
 > JetBrains全家桶是由*JetBrains公司*提供的一套集成开发环境(IDE)和开发工具包，包括**IntelliJ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
 
 ---
 
-## 🤟准备工作
+## 🔷准备工作
 
 ### 准备安装包(这里以PyCharm举例)
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🤟安装激活
+## 🔷安装激活
 
 ### 运行`JetBrainsIDE安装包`
 
@@ -106,7 +106,7 @@
 
 ---
 
-## 🤟验证
+## 🔷验证
 
 ### 打开JetBrainsIDE查看，直接激活到了2099年12月31日
 
