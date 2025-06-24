@@ -16,6 +16,8 @@ IDEA、PyCharm、Rider、CLion、Goland、PhpStorm、WebStorm**等。
 ### 1. 准备安装包(这里以PyCharm举例)
 
 > - 首先在浏览器上输入搜索`<对应的JetBrainsIDE名称> other version`
+> 
+> 👉 [>>> 搜索模板 <<<](https://enderg.lanzoum.com/i0aWN2ecyzle) 👈
 >
 > ![p0](../../img/foundation/p001/p0.png)
 >

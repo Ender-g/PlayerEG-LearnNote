@@ -20,9 +20,9 @@
 
 > ResendAPI是一个用于发送邮件的API，可以免费使用。
 >
-> 官网：<https://resend.com/>
+> 官网👉 [♾️https://resend.com/](https://resend.com/)
 >
-> 官方文档：<https://resend.com/docs/api>
+> 官方文档👉 [♾️https://resend.com/docs/api](https://resend.com/docs/api)
 
 ---
 
@@ -56,11 +56,14 @@
 
 ![p51](../img/p003/p1.png)
 
-### 点击`Domains`，来到[Domains页面](https://resend.com/domains)
+### 点击`Domains`，来到Domains页面
+👉 [>>> Domains页面 <<<](https://resend.com/domains) 👈
 
 ![p52](../img/p003/p2.png)
 
-### 点击`Add Domain`，来到[Add Domain页面](https://resend.com/domains/add)
+### 点击`Add Domain`，来到Add Domain页面
+
+👉 [>>> Add Domain页面 <<<](https://resend.com/domains/add) 👈
 
 ![p53](../img/p003/p3.png)
 
@@ -92,11 +95,13 @@
 >
 > ![p59](../img/p003/p9.png)
 
-### 4. 点击`API keys`，来到[API Keys页面](https://resend.com/api-keys)
+### 点击`API keys`，来到API Keys页面
+
+👉 [>>> API Keys页面 <<<](https://resend.com/api-keys) 👈
 
 ![p60](../img/p003/p10.png)
 
-### 5. 现在创建API key
+### 现在创建API key
 
 > - 点击`Create API key`
 >
@@ -110,7 +115,7 @@
 >
 > ![p63](../img/p003/p13.png)
 
-### 6. 最后复制保存ResendAPIkey
+### 最后复制保存ResendAPIkey
 
 ![p64](../img/p003/p14.png)
 
