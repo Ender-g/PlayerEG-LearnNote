@@ -2,6 +2,8 @@
 
 > ⚠️**注意**：本教程将会使用到Google和github等国外服务（因为相对来说更加方便），如果你的网络环境不支持直接连接外域，请使用VPN或者代理
 
+---
+
 ## 🤟教程概述
 
 > 本教程介绍如何使用ResendAPI实现基础的邮箱发送。将使用Python3作为编程语言，使用ResendAPI实现基础的邮箱发送。
@@ -12,6 +14,8 @@
 >
 > 通过[`random`](https://docs.python.org/zh-cn/3/library/random.html)模块生成随机数，将随机数作为邮件内容发送给指定邮箱。并判断用户输入的数字是否正确。
 
+---
+
 ## 🤟ResendAPI简介
 
 > ResendAPI是一个用于发送邮件的API，可以免费使用。
@@ -19,6 +23,8 @@
 > 官网：<https://resend.com/>
 >
 > 官方文档：<https://resend.com/docs/api>
+
+---
 
 ## 🤟准备工作
 
@@ -41,6 +47,8 @@
 ### 准备好一个[Resend](https://resend.com/)账号
 
 - 👉 [>>> Resend账号注册 <<<](https://resend.com/signup) 👈
+
+---
 
 ## 🤟具体步骤
 
@@ -105,6 +113,8 @@
 ### 6. 最后复制保存ResendAPIkey
 
 ![p64](../img/p003/p14.png)
+
+---
 
 ## 🤟开始发送你的第一个resend邮件
 
@@ -205,6 +215,8 @@ if __name__ == '__main__':
     else:
         print('好像不是的呢！')
 ```
+
+---
 
 ## 🤟验证
 

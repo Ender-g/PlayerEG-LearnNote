@@ -2,6 +2,8 @@
 
 > ⚠️**注意**：本教程将会使用到Google和github等国外服务（因为相对来说更加方便），如果你的网络环境不支持直接连接外域，请使用VPN或者代理
 
+---
+
 ## 🤟教程概述
 
 > 本教程介绍如何将阿里云域名DNS解析改为Cloudflare第三方DNS解析。
@@ -9,10 +11,12 @@
 > 最终实现以下效果：
 >
 > [![效果](../img/p002/p0.png)](https://test.playereg.top/)
->👉👈
+>
 > 👆👆👆点击图片可以进入测试页面demo👆👆👆
 >
 > 成功使用Cloudflare的Pages服务部署测试网页，并且能够通过你的域名访问
+
+---
 
 ## 🤟Cloudflare简介
 
@@ -21,6 +25,8 @@
 > 官网：<https://cloudflare.com/>
 >
 > 官方文档：<https://www.cloudflare.com/zh-cn/about-overview/>
+
+---
 
 ## 🤟具体步骤
 
@@ -99,6 +105,8 @@
 ### 成功后会跳转回域名`DNS修改`页面，如果DNS服务器变成了`xxx.cloudflare.com`，则表示成功
 
 ![p33](../img/p002/p17.png)
+
+---
 
 ## 🤟验证
 
