@@ -1,5 +1,7 @@
 # 将阿里云域名DNS解析改为Cloudflare第三方DNS解析
 
+> **注意**：本教程将会使用到Google和github等国外服务（因为相对来说更加方便），如果你的网络环境不支持直接连接外域，请使用VPN或者代理
+
 ## 教程概述
 
 > 本教程介绍如何将阿里云域名DNS解析改为Cloudflare第三方DNS解析。
@@ -8,7 +10,7 @@
 >
 > [![效果](../img/p002/p0.png)](https://test.playereg.top/)
 >
-> 点击图片可以进入测试页面demo
+> 👆👆👆点击图片可以进入测试页面demo👆👆👆
 >
 > 成功使用Cloudflare的Pages服务部署测试网页，并且能够通过你的域名访问
 
