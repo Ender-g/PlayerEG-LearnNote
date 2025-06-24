@@ -20,7 +20,7 @@
 
 ## 🤟准备工作
 
-### 1. 准备安装包(这里以PyCharm举例)
+### 准备安装包(这里以PyCharm举例)
 
 > - 首先在浏览器上输入搜索`<对应的JetBrainsIDE名称> other version`
 > 
@@ -50,7 +50,7 @@
 >
 > ![p7](../../img/foundation/p001/p7.png)
 
-### 2. 准备激活脚本
+### 准备激活脚本
 
 > - 首先下载`jetbrains激活码-Win系统.zip`
 >
