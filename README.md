@@ -32,7 +32,7 @@
 
 ---
 
-## 👤 关于我
+## 🌐 关于我
 
 ### ♠️ 邮箱1：<playereg@vip.playereg.top>
 
