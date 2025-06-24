@@ -1,4 +1,4 @@
-# 🌐 PlayerEG的公开笔记
+# 💫 PlayerEG的公开笔记
 
 ## 🔷 基础教程
 
