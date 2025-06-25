@@ -28,7 +28,7 @@
 
 ### 🟣 涉及多种编程语言
 
-### 🟤 And so on...
+### 🟤 And so on
 
 ---
 
@@ -42,4 +42,4 @@
 
 ### ♦️ B站主页：[@PlayerEG](https://space.bilibili.com/520500365)
 
-<img src="./img/mylogo.png" width="150">
+<img src="./img/mylogo.png" width="150" alt="Logo Image">

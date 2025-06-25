@@ -57,6 +57,7 @@
 ![p51](../img/p003/p1.png)
 
 ### 点击`Domains`，来到Domains页面
+
 👉 [>>> Domains页面 <<<](https://resend.com/domains) 👈
 
 ![p52](../img/p003/p2.png)
