@@ -3,9 +3,9 @@
 ## 🔷 教程概述
 
 > 本教程将教学JetBrains全家桶安装加激活，在后续教程作为工具使用。
-> 
->  最终实现以下效果：
-> 
+>
+> 最终实现以下效果：
+>
 > ![效果](../../img/foundation/p001/p20.png)
 >
 > JetBrainsIDE被激活到2099年12月31日
@@ -23,7 +23,7 @@
 ### 准备安装包(这里以PyCharm举例)
 
 > - 首先在浏览器上输入搜索`<对应的JetBrainsIDE名称> other version`
-> 
+>
 > 👉 [>>> 搜索模板 <<<](https://enderg.lanzoum.com/i0aWN2ecyzle) 👈
 >
 > ![p0](../../img/foundation/p001/p0.png)
@@ -32,7 +32,7 @@
 >
 > ![p1](../../img/foundation/p001/p1.png)
 >
-> - 来到`Other Versions`页面，向下翻页，找到`Version 2024.1 - 2024.3`的区域
+> - 来到`Other Versions`页面，向下翻页，找到`Version 2024.1 - 2024.3`的区域(推荐使用这个版本区间，容易被本教程提供的脚本激活)
 >
 > ![p2](../../img/foundation/p001/p2.png)
 >
