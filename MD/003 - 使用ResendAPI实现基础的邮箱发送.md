@@ -54,39 +54,39 @@
 
 ### 登录Resend[](https://resend.com/)
 
-![p51](../img/p003/p1.png)
+![p1](../img/p003/p1.png)
 
 ### 点击`Domains`，来到Domains页面
 
 👉 [>>> Domains页面 <<<](https://resend.com/domains) 👈
 
-![p52](../img/p003/p2.png)
+![p2](../img/p003/p2.png)
 
 ### 点击`Add Domain`，来到Add Domain页面
 
 👉 [>>> Add Domain页面 <<<](https://resend.com/domains/add) 👈
 
-![p53](../img/p003/p3.png)
+![p3](../img/p003/p3.png)
 
-![p54](../img/p003/p4.png)
+![p4](../img/p003/p4.png)
 
 ### 填写信息，完成添加域名
 
 > - 填入用于邮箱发送的子域，地区推荐选择US
 >
-> ![p55](../img/p003/p5.png)
+> ![p5](../img/p003/p5.png)
 >
 > - 点击`Add Domain`
 >
-> ![p56](../img/p003/p6.png)
+> ![p6](../img/p003/p6.png)
 >
 > - 来到DNS配置页面，直接点击`登录到Cloudflare`
 >
-> ![p57](../img/p003/p7.png)
+> ![p7](../img/p003/p7.png)
 >
 > - 弹出Cloudflare授权窗口，点击`授权`
 >
-> ![p58](../img/p003/p8.png)
+> ![p8](../img/p003/p8.png)
 >
 > - 现在可以打开你喜欢的游戏，等待激活成功了。当显示：
 >
@@ -94,31 +94,31 @@
 >
 > 说明激活成功了
 >
-> ![p59](../img/p003/p9.png)
+> ![p9](../img/p003/p9.png)
 
 ### 点击`API keys`，来到API Keys页面
 
 👉 [>>> API Keys页面 <<<](https://resend.com/api-keys) 👈
 
-![p60](../img/p003/p10.png)
+![p10](../img/p003/p10.png)
 
 ### 现在创建API key
 
 > - 点击`Create API key`
 >
-> ![p61](../img/p003/p11.png)
+> ![p11](../img/p003/p11.png)
 >
 > - 填写API key名称和权限
 >
-> ![p62](../img/p003/p12.png)
+> ![p12](../img/p003/p12.png)
 >
 > - 点击`Add`
 >
-> ![p63](../img/p003/p13.png)
+> ![p13](../img/p003/p13.png)
 
 ### 最后复制保存ResendAPIkey
 
-![p64](../img/p003/p14.png)
+![p14](../img/p003/p14.png)
 
 ---
 
@@ -128,29 +128,41 @@
 
 > - 点击`新建项目`
 >
-> ![p65](../img/p003/p15.png)
+> ![p15](../img/p003/p15.png)
 >
 > - 项目命名为`EmailSendTest`
 >
-> ![p66](../img/p003/p16.png)
+> ![p16](../img/p003/p16.png)
 >
 > - 点击`创建`
 >
-> ![p67](../img/p003/p17.png)
+> ![p17](../img/p003/p17.png)
 
 ### 来到项目，按照以下顺序点击创建文件
 
-![p68](../img/p003/p18.png)
+![p18](../img/p003/p18.png)
 
 ### 分别创建`__main__.py`和`resend_email_demo.py`文件
 
 > - 创建`__main__.py`
 >
-> ![p69](../img/p003/p19.png)
+> ![p19](../img/p003/p19.png)
 >
 > - 创建`resend_email_demo.py`
 >
-> ![p70](../img/p003/p20.png)
+> ![p20](../img/p003/p20.png)
+
+### 使用pip安装resend模块，打开终端，输入以下命令安装resend模块
+
+```bash
+pip install resend
+```
+
+![p21](../img/p003/p21.png)
+
+### 回车后，等待安装完成
+
+![p22](../img/p003/p22.png)
 
 ### 根据ResendAPI文档，编写工具方法
 
@@ -176,7 +188,6 @@ print(email)
 ```python
 # resend_email_demo.py
 import resend
-
 
 def sendEmail(
         __fromName__,  # 发送人昵称
