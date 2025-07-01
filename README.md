@@ -2,9 +2,9 @@
 
 ## 🔷 基础教程 🔷
 
-### 🔹[001-JetBrains全家桶安装激活](MD/foundation/001 - JetBrains全家桶安装激活.md)
+### 🔹[001 - JetBrains全家桶安装激活](MD/foundation/001 - JetBrains全家桶安装激活.md)
 
-### 🔹[002-Python环境安装](MD/foundation/002 - Python环境安装.md)
+### 🔹[002 - Python环境安装](MD/foundation/002 - Python环境安装.md)
 
 ---
 
