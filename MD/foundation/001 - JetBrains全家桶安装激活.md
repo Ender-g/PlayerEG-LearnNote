@@ -24,7 +24,7 @@
 
 > - 首先在浏览器上输入搜索`<对应的JetBrainsIDE名称> other version`
 >
-> 👉 [>>> 搜索模板 <<<](https://enderg.lanzoum.com/i0aWN2ecyzle) 👈
+> 👉 [>>> 搜索模板 <<<](https://cn.bing.com/search?q=<这里输入JetBrainsIDE名称>+other+version) 👈
 >
 > ![p0](../../img/foundation/p001/p0.png)
 >
