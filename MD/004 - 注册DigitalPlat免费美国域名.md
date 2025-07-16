@@ -30,8 +30,26 @@
 
 ### 一个Github账号
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1652838105&bvid=BV1eE421M7Wr&cid=1499033383&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+ 👉 [>>> GitHub官网 <<<](https://github.com/) 👈
+
+👉 [>>> 具体教程 <<<](https://www.bilibili.com/video/BV1eE421M7Wr/?share_source=copy_web&vd_source=240160cbd7928481ec388b93ea9835a2) 👈
 
 ### 一个可用的邮箱账号
 
-### 
+| 序号 | 邮箱供应商 | 官网                                                   |
+|:--:|------:|:-----------------------------------------------------|
+| 1  |   163 | [https://mail.163.com/](https://mail.163.com/)       |
+| 2  |    QQ | [https://mail.qq.com/](https://mail.qq.com/)         |
+| 3  |   126 | [https://mail.126.com/](https://mail.126.com/)       |
+| 4  |   139 | [https://mail.10086.cn/](https://mail.10086.cn/)     |
+| 5  | gmail | [https://mail.google.com/](https://mail.google.com/) |
+
+---
+
+## 🔶 具体步骤
+
+### 进入DigitalPlat注册页面
+
+👉 [>>> DigitalPlat注册页面 <<<](https://dash.domain.digitalplat.org/auth/register) 👈
+
+![p1](../img/p004/p1.png)
