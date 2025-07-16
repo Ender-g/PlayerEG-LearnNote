@@ -16,13 +16,13 @@
 
 ---
 
-## 🔶 ResendAPI简介
+## 🔶 Resend简介
 
-> ResendAPI是一个用于发送邮件的API，可以免费使用。
+> [*Resend*](https://resend.com/)是一个**邮箱路由的API供应商**，个人可以免费使用。
 >
-> 官网👉 [🌐https://resend.com/](https://resend.com/)
+> **官网👉 [🌐https://resend.com/](https://resend.com/)**
 >
-> 文档👉 [🌐https://resend.com/docs/api](https://resend.com/docs/api)
+> **文档👉 [🌐https://resend.com/docs/api](https://resend.com/docs/api)**
 
 ---
 
@@ -30,11 +30,11 @@
 
 ### 安装[Python3](https://www.python.org/downloads/)环境，作为本次教程的主要编程语言
 
-👉 [>>> 具体教程 <<<](foundation/002 - Python环境安装.md) 👈
+👉 [>>> 具体教程 <<<](foundation/002%20-%20Python环境安装.md) 👈
 
 ### 安装[PyCharm](https://www.jetbrains.com/zh-cn/pycharm/)环境，作为本次教程的编辑器
 
-👉 [>>> 具体教程 <<<](foundation/001 - JetBrains全家桶安装激活.md) 👈
+👉 [>>> 具体教程 <<<](foundation/001%20-%20JetBrains全家桶安装激活.md) 👈
 
 ### 注册一个[阿里云](https://cn.aliyun.com/)域名
 
