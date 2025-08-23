@@ -157,7 +157,7 @@
 pip install resend
 ```
 
-连接pypi失败的换下面这段命令
+连接pypi失败的换下面这段命令（国内阿里pip镜像源）
 
 ```bash
 pip install resend -i https://mirrors.aliyun.com/pytorch-wheels/
