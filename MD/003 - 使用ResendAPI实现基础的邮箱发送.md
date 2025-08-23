@@ -154,7 +154,7 @@
 ### 使用pip安装resend模块，打开终端，输入以下命令安装resend模块
 
 ```bash
-pip install resend
+pip install resend -i https://mirrors.aliyun.com/pytorch-wheels/
 ```
 
 ![p21](../img/p003/p21.png)
